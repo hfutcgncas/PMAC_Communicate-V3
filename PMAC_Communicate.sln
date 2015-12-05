@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMAC_Communicate", "PMAC_Communicate\PMAC_Communicate.csproj", "{8A4F8E30-8B0C-4B0D-9587-682304B5FCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pmac_Comm", "Pmac_Comm\Pmac_Comm.csproj", "{DD5465C3-DF85-4536-9652-7EA82214AE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabletennisCln", "TabletennisCln\TabletennisCln.csproj", "{4925294B-9BC5-4EDD-B674-44BF8CF41133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A4F8E30-8B0C-4B0D-9587-682304B5FCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4F8E30-8B0C-4B0D-9587-682304B5FCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4F8E30-8B0C-4B0D-9587-682304B5FCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4F8E30-8B0C-4B0D-9587-682304B5FCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5465C3-DF85-4536-9652-7EA82214AE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5465C3-DF85-4536-9652-7EA82214AE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5465C3-DF85-4536-9652-7EA82214AE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5465C3-DF85-4536-9652-7EA82214AE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4925294B-9BC5-4EDD-B674-44BF8CF41133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4925294B-9BC5-4EDD-B674-44BF8CF41133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4925294B-9BC5-4EDD-B674-44BF8CF41133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4925294B-9BC5-4EDD-B674-44BF8CF41133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
